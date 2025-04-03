@@ -11,6 +11,7 @@ A) git add .
 B) git add -A
 C) git add --all
 D) All of the above
+D) All of the above
 -----------------------
 3. What is the purpose of git add -p?
 A) Automatically commits changes
